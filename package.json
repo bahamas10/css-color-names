@@ -21,5 +21,8 @@
   "license": "MIT",
   "keywords": [
     "css", "colors", "names"
+  ],
+  "files": [
+    "css-color-names.json"
   ]
 }
