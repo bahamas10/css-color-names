@@ -20,7 +20,7 @@
   },
   "license": "MIT",
   "keywords": [
-    "css", "colors", "names"
+    "css", "colors", "names", "html color names", "scss"
   ],
   "files": [
     "css-color-names.json"
